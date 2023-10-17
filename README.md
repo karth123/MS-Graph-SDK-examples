@@ -5,6 +5,8 @@ A repository to store examples of usage of MS-Graph SDK in python (Users and Gro
 
 The tutorial also explores directory extensions in Users and Groups
 
+Warning! MSGraph SDK python is currently in Preview. The version used in this repository is 1.0.0.a12. Newer versions may break this code.
+
 
 
 
